@@ -1,7 +1,8 @@
 {
     "name": "etterur/tvtrigger",
     "require": {
-        "silex/silex": "~1.2"
+        "silex/silex": "~1.2",
+        "guzzle/guzzle": "*"
     },
     "require-dev": {
         "heroku/heroku-buildpack-php": "*"
