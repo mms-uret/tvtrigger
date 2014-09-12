@@ -3,6 +3,9 @@
     "require": {
         "silex/silex": "~1.2"
     },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    },
     "license": "MIT",
     "authors": [
         {
