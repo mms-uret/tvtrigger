@@ -1,0 +1,13 @@
+{
+    "name": "etterur/tvtrigger",
+    "require": {
+        "silex/silex": "~1.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Urban Etter",
+            "email": "urban.etter@srf.ch"
+        }
+    ]
+}
